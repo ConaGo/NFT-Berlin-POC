@@ -1,0 +1,28 @@
+{
+  "name": "nft-berlin-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConaGo/NFT-Berlin-POC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConaGo/NFT-Berlin-POC/issues"
+  },
+  "homepage": "https://github.com/ConaGo/NFT-Berlin-POC#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "dotenv": "^10.0.0"
+  }
+}

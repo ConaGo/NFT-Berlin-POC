@@ -1,0 +1,8 @@
+#environment variables
+.env
+
+#hardhat compile data
+artifacts
+cache
+
+node_modules
