@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "data-format",
+      "value": "png"
+    },
+    {
+      "trait_type": "author",
+      "value": "LJ"
+    }
+  ],
+  "description": "Testing image for NFT minting",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZzgAMZKRwgprQEqaEaAkcSjeGyHKbxMRQ9Ng4WF6nuyG",
+  "name": "TestName"
+}
